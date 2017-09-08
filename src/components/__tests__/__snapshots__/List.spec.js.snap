@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List.vue has same HTML structure 1`] = `
+<ul>
+    <li>
+        item one
+    </li>
+    <li>
+        item two
+    </li>
+</ul>
+`;
